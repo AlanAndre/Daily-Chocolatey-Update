@@ -9,6 +9,6 @@ Be sure to use your path in the arguments below:
 1. Selected 'On Login', click 'Next'.
 1. 'Start a program' is selected, so click 'Next'.
 1. In Program/script:, type ```PowerShell.exe```.
-1. In Add arguments (optional), type ```-NoExit -File "<PATH>\daily_choco.ps1"```
+1. In Add arguments (optional), type ```-File "<PATH>\daily_choco.ps1"```
 1. Click 'Next'.
 1. Click 'Finish'.
